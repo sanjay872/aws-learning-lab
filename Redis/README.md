@@ -35,4 +35,4 @@ sudo docker run -it --rm redis redis-cli -h <your-redis-endpoint>
     - EC2 must has inbound rule of SSH for connectivity.
     - Cache must have Custom TCP with the source of EC2 secuity group.
 
-# Task 3 - 
+## Tried everything and not working, will work on it some other time.
