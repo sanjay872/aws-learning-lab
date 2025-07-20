@@ -16,7 +16,7 @@
 
 ## Milestone 8 - Kinesis
 
-## Milestone 9 - Redis
+## Milestone 9 - ElasticCache (Redis)
 
 ## Milestone 10 - Load Balancer
 
