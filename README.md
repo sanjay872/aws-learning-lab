@@ -24,6 +24,8 @@
 
 ## Milestone 12 - Monitoring & Tracing
 
+## Milestone 13 - RDS & Aurora Databases
+
 ## Other services or features
 - Cost Anomaly Detection, it reduces the services cost upto 40% by using machine learning analysis and it is completely free. It is enable by default and it can be opt-out if needed.
 - Amazon Q (It is inbuilt AI for chatbot and autocode completion on the editor).
